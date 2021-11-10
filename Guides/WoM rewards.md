@@ -15,7 +15,7 @@ The official account will contact the player in turn via Minesweeper Online. The
 
 If two players are both back after being hanged up, they will be called in the order of their ranking. After we reach the end of ranking, we start to call those who are back. Then all hanged-up players have 1 chance in 1 week to get an equip or a ticket by sending an exchange to the official account. The exchanges will be accepted by the order of their indices. For example, if two players hit the same single item, only the exchange with smaller index will pass while the other will be discarded, meaning that one player will get nothing. After the week, the allocation is over and the pool is open for donation.
 
-DISCLAIMER: Players who are willing to get rewards on WoM need to be able to use basic WoM features. We will not teach you how to send an exchange, etc. If you can't figure out how WoM works, then you are not eligible for WoM rewards.
+DISCLAIMER: Players who are willing to get rewards on WoM need to be able to use basic WoM features. We will not teach you how to send an exchange, etc. If you don't know how to use WoM, then you should not get WoM rewards.
 
 # 金羊杯的WoM资源奖励
 
@@ -31,4 +31,4 @@ DISCLAIMER: Players who are willing to get rewards on WoM need to be able to use
 
 如果有多位处于“等待”状态的选手，他们被叫到的顺序以排名为准。当最后一名的奖励发放过程结束后（无论最后一名是否领奖），官方账号会开始依次联系所有处于“等待”状态的选手。这一步骤完成后，所有处于“挂起”状态的选手有一星期的时间通过发送交易的方式申请领取一件不定价物品（不能领取货币）。这些申请会依照交易编号先后顺序执行。若多名选手选中了同一件物品，则只有最先提交的申请会被通过，后续申请都将作废，对应的选手也就失去了获得奖励的资格。
 
-免责声明：想要领取WoM奖励的选手需要能够使用WoM的基础功能。我们不会教你如何发送交易等等。如果你不会用WoM，那就没有领取WoM奖励的资格。
+免责声明：想要领取WoM奖励的选手需要能够使用WoM的基础功能。我们不会教你如何发送交易等等。如果你不会用WoM，那就不应领取WoM奖励。
