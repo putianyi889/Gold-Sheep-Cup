@@ -23,6 +23,10 @@ PS: Players who are willing to get rewards on WoM need to be able to use basic W
 ## The prize pool
 The prize pool is maintained [here](https://docs.google.com/spreadsheets/d/1uP6P3oERcd_POmXP8-vP2Yl0VrIyVny9mmegvZxx2-A/edit?usp=sharing) by [Tian-Yi Pu](https://minesweepergame.com/profile.php?pid=8747). It's closed at the start of an GSC and reopened after the [allocation process](#allocation-rules). You can still send exchanges during the closed period and we will accept them once the pool is reopened.
 
+Remaining resources after a GSC will be reserved for the next one.
+
+We don't accept trades.
+
 # 金羊杯的WoM资源奖励
 
 从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[官方账号](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。
@@ -44,3 +48,7 @@ The prize pool is maintained [here](https://docs.google.com/spreadsheets/d/1uP6P
 
 ## 关于奖池
 [奖池](https://docs.google.com/spreadsheets/d/1uP6P3oERcd_POmXP8-vP2Yl0VrIyVny9mmegvZxx2-A/edit?usp=sharing)由[濮天羿](https://minesweepergame.com/profile.php?pid=8747)维护。为了照顾到中国大陆的玩家，奖池还在[腾讯文档](https://docs.qq.com/sheet/DYUJVYUZubnJHVmtj)做了镜像，但是该镜像很少更新。奖池的捐赠通道于金羊杯开始时关闭，于奖励发放结束后打开。您仍可以在奖池关闭期间发送交易，我们会在奖池打开后第一时间接收。
+
+一届金羊杯未发放完成的奖励会顺延到下一届。
+
+奖池不接受交换资源的交易。
