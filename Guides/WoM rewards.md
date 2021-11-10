@@ -5,7 +5,7 @@
 From the 9th GSC, [Minesweeper Online](https://minesweeper.online/) resources are added to the pool to bring more motivation and attract international players. Anyone can sponsor GSC by donating resources to an [official account](https://minesweeper.online/player/5619613). Any kind of resources are accepted while different resources apply different allocating rules. 
 
 ## Eligibility
-Players need to participate in GSC and get a valid result. To participate in GSC, see [here](https://github.com/putianyi889/Miscellaneous/blob/master/%E6%89%AB%E9%9B%B7/GSC%20Guide.md).
+Players need to participate in GSC and get a valid result. To participate in GSC, see [here](https://github.com/putianyi889/Miscellaneous/blob/master/%E6%89%AB%E9%9B%B7/GSC%20Guide.md). Players need to have an account on [minesweepergame.com](https://minesweepergame.com/) or [saolei.wang](http://www.saolei.wang/Main/Index.asp) with reasonable performance compared to their WoM accounts.
 
 Players need to be familiar with WoM features, especially the exchange system.
 
@@ -37,7 +37,7 @@ We don't accept trades.
 从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[官方账号](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。
 
 ## 领奖资格
-玩家需要参加金羊杯并取得有效成绩。
+玩家需要参加金羊杯并取得有效成绩。玩家需要拥有[国际网](https://minesweepergame.com/)或[扫雷网](http://www.saolei.wang/Main/Index.asp)账号，且在相应网站上的成绩和WoM上的成绩差距在合理范围内。
 
 玩家需要能熟练使用WoM的各项功能，尤其是一对一交易系统。
 
