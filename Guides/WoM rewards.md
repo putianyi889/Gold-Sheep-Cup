@@ -2,7 +2,10 @@
 
 # WoM rewards for GSC
 
-From the 9th GSC, [Minesweeper Online](https://minesweeper.online/) resources are added to the pool to bring more motivation and attract international players. Anyone can sponsor GSC by donating resources to an [official account](https://minesweeper.online/player/5619613). Any kind of resources are accepted while different resources apply different allocating rules. All resources fall into one of the following categories:
+From the 9th GSC, [Minesweeper Online](https://minesweeper.online/) resources are added to the pool to bring more motivation and attract international players. Anyone can sponsor GSC by donating resources to an [official account](https://minesweeper.online/player/5619613). Any kind of resources are accepted while different resources apply different allocating rules. 
+
+## Allocation rules
+All resources fall into one of the following categories:
 - Currency: coins and gems. The prices of gems are relatively stable so we can do conversions. Currently, 1 gem = 395 coins.
 - Floating-value items: tickets and equips.
 
@@ -17,9 +20,15 @@ If two players are both back after being hanged up, they will be called in the o
 
 PS: Players who are willing to get rewards on WoM need to be able to use basic WoM features. We will not teach you how to send an exchange, etc. If you don't know how to use WoM, then you should not get WoM rewards.
 
+## The prize pool
+The prize pool is maintained [here](https://docs.google.com/spreadsheets/d/1uP6P3oERcd_POmXP8-vP2Yl0VrIyVny9mmegvZxx2-A/edit?usp=sharing) by [Tian-Yi Pu](https://minesweepergame.com/profile.php?pid=8747). It's closed at the start of an GSC and reopened after the [allocation process](#allocation-rules). You can still send exchanges during the closed period and we will accept them once the pool is reopened.
+
 # 金羊杯的WoM资源奖励
 
-从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[官方账号](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。所有资源分为两大类：
+从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[官方账号](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。
+
+## 奖励发放规则
+所有资源分为两大类：
 - 货币：金币和宝石。宝石的市场价相对稳定，可以做转换。当前1宝石=395金币。
 - 不定价物品：门票和装备。
 
@@ -32,3 +41,6 @@ PS: Players who are willing to get rewards on WoM need to be able to use basic W
 如果有多位处于“等待”状态的选手，他们被叫到的顺序以排名为准。当最后一名的奖励发放过程结束后（无论最后一名是否领奖），官方账号会开始依次联系所有处于“等待”状态的选手。这一步骤完成后，所有处于“挂起”状态的选手有一星期的时间通过发送交易的方式申请领取一件不定价物品（不能领取货币）。这些申请会依照交易编号先后顺序执行。若多名选手选中了同一件物品，则只有最先提交的申请会被通过，后续申请都将作废，对应的选手也就失去了获得奖励的资格。
 
 注：想要领取WoM奖励的选手需要能够使用Minesweeper Online的基础功能。我们不会教你如何发送交易等等。如果你不会用Minesweeper Online，那就不应领取WoM奖励。
+
+## 关于奖池
+[奖池](https://docs.google.com/spreadsheets/d/1uP6P3oERcd_POmXP8-vP2Yl0VrIyVny9mmegvZxx2-A/edit?usp=sharing)由[濮天羿](https://minesweepergame.com/profile.php?pid=8747)维护。为了照顾到中国大陆的玩家，奖池还在[腾讯文档](https://docs.qq.com/sheet/DYUJVYUZubnJHVmtj)做了镜像，但是该镜像很少更新。奖池的捐赠通道于金羊杯开始时关闭，于奖励发放结束后打开。您仍可以在奖池关闭期间发送交易，我们会在奖池打开后第一时间接收。
