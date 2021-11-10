@@ -19,7 +19,7 @@ DISCLAIMER: Players who are willing to get rewards on WoM need to be able to use
 
 # 金羊杯的WoM资源奖励
 
-从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[official account](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。所有资源分为两大类：
+从第9届金羊杯开始，为了提高参赛积极性、吸引国际选手，选手们可以获取[Minesweeper Online](https://minesweeper.online/)的资源奖励。任何人都可以通过向[官方账号](https://minesweeper.online/player/5619613)捐赠的方式赞助金羊杯。我们接受任何种类的资源。不同的资源遵循不同的分配规则。所有资源分为两大类：
 - 货币：金币和宝石。宝石的市场价相对稳定，可以做转换。当前1宝石=395金币。
 - 不定价物品：门票和装备。
 
