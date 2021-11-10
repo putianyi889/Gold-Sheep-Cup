@@ -1,4 +1,4 @@
-|[English](#wom-rewards-for-gsc)|[中文](#金羊杯的WoM资源奖励)|
+| [English](#wom-rewards-for-gsc) | [中文](#金羊杯的WoM资源奖励) |
 
 # WoM rewards for GSC
 
