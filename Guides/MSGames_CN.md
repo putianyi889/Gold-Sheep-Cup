@@ -34,4 +34,4 @@
 
 翻译：注册码已发送到xxx邮箱。输入注册码激活账号。若有任何疑问，发送邮件至admin@minesweepergame.com或者在Discord中联系thefinerminer。
 
-在`Code`后面粘贴邮箱接收到的注册码，点击`Submit Code`提交。
+在`Code`后面粘贴邮箱接收到的注册码，点击`Submit Code`提交。若没收到，可以尝试点再下面的`Submit Again`重新发送。
